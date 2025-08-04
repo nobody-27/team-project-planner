@@ -1,0 +1,10 @@
+# No external dependencies required - using only Python standard library
+# The project uses only built-in Python modules:
+# - json
+# - os
+# - sys
+# - uuid
+# - datetime
+# - pathlib
+# - tempfile
+# - fcntl (Unix/Linux) / msvcrt (Windows)
